@@ -3,7 +3,7 @@
 
 # Como funciona?
 
-O chatbot funciona de maneira simples, no arquivo frases.js encontramos 3 variáveis responsáveis pelo funcionamento do bot:
+O chatbot funciona de maneira simples, no arquivo *frases.js* encontramos 3 variáveis responsáveis pelo funcionamento do bot:
 
 `perguntas:` armazena todas perguntas que o usuário poderá fazer.
 </br>
