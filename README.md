@@ -7,7 +7,7 @@ O chatbot funciona de maneira simples, no arquivo *frases.js* encontramos 3 vari
 
 `perguntas:` armazena todas perguntas que o usuário poderá fazer.
 </br>
-`respostas:` armazena todas as repostas possíveis pelo bot.
+`respostas:` armazena todas as respostas possíveis pelo bot.
 </br>
 `respostas_alternativas:` armazena as respostas alternativas caso não for encontrado outra resposta.
 
